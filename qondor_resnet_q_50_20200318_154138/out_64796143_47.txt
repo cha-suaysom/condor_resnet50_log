@@ -1,0 +1,4 @@
+hostname: nsuaysom-64796143-47-cmswn2015.fnal.gov
+date:     Wed Mar 18 20:46:31 UTC 2020
+pwd:      /storage/local/data1/condor/execute/dir_62362
+Redirecting all output to stderr from here on out
