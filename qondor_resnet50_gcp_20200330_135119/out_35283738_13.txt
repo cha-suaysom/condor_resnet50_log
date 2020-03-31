@@ -1,0 +1,8 @@
+[FERMIHTC-SINGULARITY]: INFO -- No Singulariy image specified
+[FERMIHTC-SINGULARITY]: INFO -- Running job on the host machine
+
+[FERMIHTC-SINGULARITY]: INFO -- Running ./condor_exec.exe
+hostname: nsuaysom-35283738-13-cmswn1896.fnal.gov
+date:     Mon Mar 30 18:52:46 UTC 2020
+pwd:      /storage/local/data1/condor/execute/dir_1613
+Redirecting all output to stderr from here on out

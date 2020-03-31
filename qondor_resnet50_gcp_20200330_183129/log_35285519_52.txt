@@ -1,0 +1,47 @@
+000 (35285519.052.000) 03/30 18:31:30 Job submitted from host: <131.225.188.57:9618?addrs=131.225.188.57-9618&noUDP&sock=2287_452f_3>
+...
+001 (35285519.052.000) 03/30 18:32:06 Job executing on host: <131.225.191.148:9618?addrs=131.225.191.148-9618&noUDP&sock=1941_f16a_3>
+...
+006 (35285519.052.000) 03/30 18:32:15 Image size of job updated: 14
+	14  -  MemoryUsage of job (MB)
+	15212  -  ResidentSetSize of job (KB)
+...
+006 (35285519.052.000) 03/30 18:33:15 Image size of job updated: 16
+	16  -  MemoryUsage of job (MB)
+	16464  -  ResidentSetSize of job (KB)
+...
+006 (35285519.052.000) 03/30 18:37:15 Image size of job updated: 107
+	107  -  MemoryUsage of job (MB)
+	109700  -  ResidentSetSize of job (KB)
+...
+006 (35285519.052.000) 03/30 18:38:16 Image size of job updated: 107
+	107  -  MemoryUsage of job (MB)
+	110076  -  ResidentSetSize of job (KB)
+...
+006 (35285519.052.000) 03/30 18:39:17 Image size of job updated: 223
+	223  -  MemoryUsage of job (MB)
+	228872  -  ResidentSetSize of job (KB)
+...
+006 (35285519.052.000) 03/30 18:40:18 Image size of job updated: 223
+	210  -  MemoryUsage of job (MB)
+	228872  -  ResidentSetSize of job (KB)
+...
+006 (35285519.052.000) 03/30 18:41:19 Image size of job updated: 244
+	244  -  MemoryUsage of job (MB)
+	249916  -  ResidentSetSize of job (KB)
+...
+006 (35285519.052.000) 03/30 18:42:20 Image size of job updated: 244
+	240  -  MemoryUsage of job (MB)
+	249916  -  ResidentSetSize of job (KB)
+...
+004 (35285519.052.000) 03/30 18:51:53 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:05:40, Sys 0 00:05:51  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	138193104  -  Run Bytes Received By Job
+	Partitionable Resources :      Usage  Request Allocated 
+	   Cpus                 :       0.00        1         1 
+	   Disk (KB)            : 1569325      150000    327464 
+	   Memory (MB)          :     240        2048      2048 
+...

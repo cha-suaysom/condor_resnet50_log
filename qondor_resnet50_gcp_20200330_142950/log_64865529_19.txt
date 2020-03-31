@@ -1,0 +1,103 @@
+000 (64865529.019.000) 03/30 14:29:50 Job submitted from host: <131.225.188.235:9618?addrs=131.225.188.235-9618&noUDP&sock=2412_0285_3>
+...
+001 (64865529.019.000) 03/30 14:30:13 Job executing on host: <131.225.204.51:9618?addrs=131.225.204.51-9618&noUDP&sock=1932_c510_3>
+...
+006 (64865529.019.000) 03/30 14:30:22 Image size of job updated: 6
+	6  -  MemoryUsage of job (MB)
+	6772  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:31:22 Image size of job updated: 28
+	28  -  MemoryUsage of job (MB)
+	29456  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:32:22 Image size of job updated: 28
+	16  -  MemoryUsage of job (MB)
+	29456  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:35:23 Image size of job updated: 152
+	152  -  MemoryUsage of job (MB)
+	156168  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:36:24 Image size of job updated: 273
+	273  -  MemoryUsage of job (MB)
+	279620  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:37:25 Image size of job updated: 273
+	272  -  MemoryUsage of job (MB)
+	279620  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:42:29 Image size of job updated: 278
+	278  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:47:33 Image size of job updated: 278
+	272  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:48:33 Image size of job updated: 278
+	273  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:49:33 Image size of job updated: 278
+	272  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:52:33 Image size of job updated: 278
+	273  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:53:34 Image size of job updated: 278
+	272  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:57:37 Image size of job updated: 278
+	273  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 14:59:39 Image size of job updated: 278
+	272  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 15:00:40 Image size of job updated: 278
+	273  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 15:01:41 Image size of job updated: 278
+	272  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 15:03:43 Image size of job updated: 278
+	273  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 15:04:45 Image size of job updated: 278
+	272  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 15:06:46 Image size of job updated: 278
+	273  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 15:08:46 Image size of job updated: 278
+	272  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+006 (64865529.019.000) 03/30 15:09:46 Image size of job updated: 278
+	273  -  MemoryUsage of job (MB)
+	285116  -  ResidentSetSize of job (KB)
+...
+005 (64865529.019.000) 03/30 15:50:55 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:37:57, Sys 0 00:38:42  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:37:57, Sys 0 00:38:42  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	414770  -  Run Bytes Sent By Job
+	138193120  -  Run Bytes Received By Job
+	414770  -  Total Bytes Sent By Job
+	138193120  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :  1569328   150000    317304 
+	   Memory (MB)          :      273     2048      2048 
+...
